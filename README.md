@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Brigida Sueldo
+- 👋 hHola soy Brigida Sueldo
 - 👀 Me interesa aprender mas sobre la contabilidad financiera y los sitemas de control inyterno en empresas
 - 🌱 Actualmente estoy aprendiendo sobre el uso de software contable como el SAP psrs obtimizar procesos finsncieros 
 - 💞 Busco colaborar en proyectos que involucren en temas relacionadas en finanzas y contabilidad
