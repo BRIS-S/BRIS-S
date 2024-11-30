@@ -1,5 +1,5 @@
-- 👋 Hola soy Brigida Sueldo
-- 👀 Me interesa aprender mas sobre la contabilidad financiera y los sitemas de control inyterno en empresas
+- 👋 Hola soy Brigida Sueldo zamora
+- 👀 Me interesa aprender mas sobre la contabilidad financiera y los sitemas de control interno en empresas
 - 🌱 Actualmente estoy aprendiendo sobre el uso de software contable como el SAP psrs obtimizar procesos finsncieros 
 - 💞 Busco colaborar en proyectos que involucren en temas relacionadas en finanzas y contabilidad
 - 📫 puedes contactarme por Linkedin 
